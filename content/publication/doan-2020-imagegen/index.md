@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Image Generation Via Minimizing Fr$backslash$'echet Distance in Discriminator
-  Feature Space
+title: Image Generation Via Minimizing Fréchet Distance in Discriminator Feature Space
 subtitle: ''
 summary: ''
 authors:
