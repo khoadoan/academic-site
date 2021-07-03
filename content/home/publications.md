@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -29,6 +29,7 @@ content:
     author: ''
     exclude_featured: true
 design:
+  columns: 1
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
