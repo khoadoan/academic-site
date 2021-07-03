@@ -1,8 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Khoa D. Doan
+role: AI Researcher
+bio: My research interests include generative models, information retrieval and
+  practical AI systems.
 interests:
   - Artificial Intelligence
   - Generative Models
