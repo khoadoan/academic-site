@@ -1,19 +1,22 @@
 ---
 widget: blank
+widget_id: My Research Theme
 headless: true
-
-# ... Put Your Section Options Here (title etc.) ...
+weight: 25
 title: My Research Themes
-subtitle:
-weight: 25  # section position on page
+subtitle: null
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding:
+      - 20px
+      - "0"
+      - 20px
+      - "0"
 ---
+My research focuses on understanding the advantages and limitations of generative models and developing practical generative ML models that have low computational complexity and require less human effort. 
 
-**Information Retrieval and Applications**
+## Information Retrieval and Applications
 
 * Interpretable Graph Similarity Computation via Differentiable Optimal Alignment of Node Embeddings (SIGIR 2021 by Doan et al.)
 * Efficient Implicit Unsupervised Text Hashing using Adversarial Autoencoder (WWW 2020 by Doan et al.)
@@ -22,12 +25,12 @@ design:
 * Generative Cooperative Hashing Network (*Under submission* 2021 by Doan et al.)
 * Fast Neural Learning-to-Hash Ranking under NeuralNetwork based Measures  (*Under submission* 2021 by Doan et al.)
 
-**Generative Models**
+## Generative Models
 
 * Image Generation Via Minimizing Frechet Distance in Discriminator Feature Space (*Under submission* 2021 by Doan et al.)
 * Regression via implicit models and optimal transport cost minimization (arxiv 2020 by Manchanda et al.)
 
-**AI Backdoor Security with Generative Models**
+## AI Backdoor Security with Generative Models
 
 * Backdoor Attack with Imperceptible Input and Latent Modification (*Under submission* 2021 by Doan et al.)
 * LIRA: Learnable, Imperceptible and Robust Backdoor Attacks (*Under submission* 2021 by Doan et al.)
