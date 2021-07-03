@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Virginia Polytechnic Institute and State University
+  - name: Virginia Tech
     url: https://vt.edu/
   - name: University of Maryland, College Park
     url: https://umd.edu/
