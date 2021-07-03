@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: My Research Theme
+widget_id: my-research-theme
 headless: true
 weight: 25
 title: My Research Themes

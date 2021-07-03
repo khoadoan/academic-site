@@ -29,13 +29,13 @@ content:
     author: ''
     exclude_featured: true
 design:
-  columns: 1
+  columns: 2
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
 
 {{% callout note %}}
