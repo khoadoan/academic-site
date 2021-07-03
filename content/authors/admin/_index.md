@@ -29,7 +29,13 @@ organizations:
   - name: University of Maryland, College Park
     url: https://umd.edu/
 education:
-  courses: []
+  courses:
+    - course: Ph.D. in Computer Science (Expected)
+      institution: Virginia Polytechnic Institute and State University
+      year: 2021
+    - course: MS in Computer Science
+      institution: University of Maryland, College Park
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
