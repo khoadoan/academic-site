@@ -3,7 +3,7 @@ widget: blank
 widget_id: my-research-theme
 headless: true
 weight: 25
-title: My Research Themes
+title: Research Themes
 subtitle: null
 design:
   columns: "2"

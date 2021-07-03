@@ -13,26 +13,24 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/doankhoadang
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Zz2hMgcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/khoadoan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/doankhoadang
 organizations:
-  - name: Virginia Tech
-    url: https://vt.edu/
-  - name: University of Maryland, College Park
-    url: https://umd.edu/
+  - name: Baidu Research
+    url: http://research.baidu.com/
 education:
   courses:
-    - course: Ph.D. in Computer Science (Expected)
+    - course: Ph.D. in Computer Science
       institution: Virginia Polytechnic Institute and State University
-      year: 2021
+      year: 2021 (Expected)
     - course: MS in Computer Science
       institution: University of Maryland, College Park
       year: 2015
