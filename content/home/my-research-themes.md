@@ -6,7 +6,7 @@ weight: 25
 title: My Research Themes
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
   spacing:
     padding:
       - 20px
