@@ -1,8 +1,7 @@
 ---
 title: Khoa D. Doan
 role: AI Researcher
-bio: My research interests include generative models, information retrieval and
-  practical AI systems.
+bio: My research interests include generative models, information retrieval and practical AI systems.
 interests:
   - Artificial Intelligence
   - Generative Models
@@ -38,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am currently a  Researcher in the Cognitive Computing Lab at [Baidu Research](http://research.baidu.com/) working with [Dr. Ping Li](http://research.baidu.com/People/index-view?id=111) on generative modeling and its applications in Information Retrieval and AI Security. I am also a member of [Prof. Chandan K. Reddy](https://people.cs.vt.edu/reddy)'s lab at VT. From May 2019 to Feb 2020, I worked at [Criteo AI Lab](https://ailab.criteo.com/) in Palo Alto, CA, where I was supervised by [Dr. Sathiya Keerthi Selvaraj](http://www.keerthis.com/). From 2016 to 2021, I a member of the [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/). Before that, I was a Faculty Research Associate of [Earth System Science Interdisciplinary Center](http://essic.umd.edu/) at UMD and also had a joint appointment at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard), where I worked on high-performance and distributed system research. 
+I am currently a  Researcher in the Cognitive Computing Lab at [Baidu Research](http://research.baidu.com/) working with [Dr. Ping Li](http://research.baidu.com/People/index-view?id=111) on generative modeling and its applications in Information Retrieval and AI Security. I am also a member of [Prof. Chandan K. Reddy](https://people.cs.vt.edu/reddy)'s lab at VT since 2016. From May 2019 to Feb 2020, I worked at [Criteo AI Lab](https://ailab.criteo.com/) in Palo Alto, CA, where I worked with [Dr. Sathiya Keerthi Selvaraj](http://www.keerthis.com/) and Dr. Fengjiao Wang. From 2016 to 2021, I a member of the [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/). Before that, I was a Faculty Research Associate of [Earth System Science Interdisciplinary Center](http://essic.umd.edu/) at UMD and also had a joint appointment at [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard), where I worked on high-performance and distributed system research. 
 
 <!--
 I am a Ph.D. candidate in Machine Learning and Data Mining at Virginia Polytechnic Institute and State University (Virginia Tech), under the supervision of Prof. Chandan K. Reddy. My doctoral research focused on understanding the advantages and limitations of generative models and developing practical generative ML models, especially in information retrieval-related methods, that have low computational complexity and require less human effort. I received my Master Degree in Computer Science, with a focus on high-performance and distributed machine learning, from UMD in 2015.
