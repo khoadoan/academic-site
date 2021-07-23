@@ -16,7 +16,7 @@ design:
 ---
 #### Journal Reviewer
 * ACM Transactions on Internet Technology (TOIT): 2020
-* ACMD Transactions on Knowledge Discovery from Data (TKDD): 2018-2021
+* ACM Transactions on Knowledge Discovery from Data (TKDD): 2018-2021
 
 #### Program Committee
 * Conference on Neural Information Processing Systems (NeurIPS): 2020-2021

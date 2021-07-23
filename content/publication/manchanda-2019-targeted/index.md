@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Saurav Manchanda
 - Pranjul Yadav
-- Khoa Doan
+- Khoa D Doan
 - S Sathiya Keerthi
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-03T16:31:51.833068Z'
+publishDate: '2021-07-23T00:00:41.048454Z'
 publication_types:
 - '1'
 abstract: ''

@@ -1,20 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quest for Value in Big Earth Data
+title: 'LIRA: Learnable, Imperceptible and Robust Backdoor Attacks'
 subtitle: ''
 summary: ''
 authors:
-- Kwo-Sen Kuo
-- Amidu O Oloso
-- Mike L Rilee
 - Khoa D Doan
-- Thomas L Clune
-- Hongfeng Yu
+- Yingjie Lao
+- Weijie Zhao
+- Ping Li
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2021-07-03T09:43:51-07:00
+date: '2021-01-01'
+lastmod: 2021-07-22T16:55:46-07:00
 featured: false
 draft: false
 
@@ -32,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-23T00:00:42.518793Z'
+publishDate: '2021-07-23T00:00:37.654144Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*EGU General Assembly Conference Abstracts*'
+publication: '*2019 International Conference on Computer Vision (ICCV)*'
 ---
