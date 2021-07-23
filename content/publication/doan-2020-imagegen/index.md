@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Image Generation Via Minimizing Fr$backslash$'echet Distance in Discriminator
-  Feature Space
+title: Image Generation Via Minimizing Fréchet Distance in Discriminator Feature Space
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-23T00:00:39.134517Z'
+publishDate: '2021-07-23T02:32:16.303959Z'
 publication_types:
 - '2'
 abstract: ''

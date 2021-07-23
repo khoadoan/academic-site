@@ -32,8 +32,8 @@ My research focuses on understanding the advantages and limitations of generativ
 
 #### AI Backdoor Security with Generative Models
 
-* Backdoor Attack with Imperceptible Input and Latent Modification (*ICCV* 2021 by Doan et al.)
-* LIRA: Learnable, Imperceptible and Robust Backdoor Attacks (*Under submission* 2021 by Doan et al.)
+* Backdoor Attack with Imperceptible Input and Latent Modification (*Under submission* 2021 by Doan et al.)
+* LIRA: Learnable, Imperceptible and Robust Backdoor Attacks (*ICCV* 2021 by Doan et al.)
 
 
 
