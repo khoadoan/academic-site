@@ -1,38 +1,26 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: 'LIRA: Learnable, Imperceptible and Robust Backdoor Attacks'
-subtitle: ''
-summary: ''
+title: Imperceptible Backdoor Attacks
+subtitle: ""
+publication_types:
+  - "1"
 authors:
-- Khoa D Doan
-- Yingjie Lao
-- Weijie Zhao
-- Ping Li
+  - Khoa D Doan
+  - Yingjie Lao
+  - Weijie Zhao
+  - Ping Li
+publication: "*2021 International Conference on Computer Vision (ICCV)*"
+abstract: ""
+draft: false
+featured: false
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-07-22T16:55:46-07:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-23T02:32:13.267742Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*2021 International Conference on Computer Vision (ICCV)*'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+lastmod: 2021-07-22T16:55:46-07:00
+date: 2021-01-01
+publishDate: 2021-07-23T02:32:13.267742Z
 ---
