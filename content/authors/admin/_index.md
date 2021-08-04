@@ -29,10 +29,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: Virginia Polytechnic Institute and State University
-      year: 2021
+      #year: 2021
     - course: MS in Computer Science
       institution: University of Maryland, College Park
-      year: 2015
+      #year: 2015
 email: ""
 superuser: true
 highlight_name: false
